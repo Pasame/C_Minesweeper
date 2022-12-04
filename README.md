@@ -95,7 +95,7 @@ int YN, fcount = 0; // YN == 재시작용 변수, fcount == 지뢰위치에 설�
   - 지뢰를 다 찾으면 종료함.
   
 ### 3. flow chart
-  
+![minesweeper_final_taskflow](https://user-images.githubusercontent.com/70192511/205488750-215d33fe-abd5-4d3c-b3dc-a89af159f5a8.png)
   
 ### 4. DEMO Video
   **↓ Click image below**<br>
