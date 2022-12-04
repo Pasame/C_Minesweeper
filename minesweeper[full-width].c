@@ -342,7 +342,7 @@ void printdfield() {
                 printf("□");
             }
             else if (cfield[i][j] == 1 && 50 > ffield[i][j] && ffield[i][j] > 0) // 이미 확인했으나 힌트값이 있을경우
-                printf("%2d", ffield[i][j]);
+                printf("%d", ffield[i][j]);
             else if (cfield[i][j] == 1 && ffield[i][j] >= 50) {
                 printf("※");
                 cfield[i][j] == 50;
