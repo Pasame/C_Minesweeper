@@ -93,3 +93,6 @@ int YN, fcount = 0; // YN == 재시작용 변수, fcount == 지뢰위치에 설�
   
 * checkend
   - 지뢰를 다 찾으면 종료함.
+
+### 3. DEMO Video
+[![Video Label](http://img.youtube.com/vi/QVZY5gtc_Xg/0.jpg)](https://youtu.be/QVZY5gtc_Xg)
