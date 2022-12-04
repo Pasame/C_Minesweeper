@@ -88,8 +88,8 @@ int YN, fcount = 0; // YN == 재시작용 변수, fcount == 지뢰위치에 설�
 * showallmatrix
   - 마지막에 최종적으로 처음에 받았던 지뢰 필드를 출력
   
-*printdfield
+* printdfield
   - dfield(현재 진행상황)을 출력함
   
-*checkend
+* checkend
   - 지뢰를 다 찾으면 종료함.
