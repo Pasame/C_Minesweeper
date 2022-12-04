@@ -67,10 +67,10 @@ int YN, fcount = 0; // YN == 재시작용 변수, fcount == 지뢰위치에 설�
   - 입력받은 숫자에 따라 난이도를 설정함
 
 * minegacha
-  - rand함수를 이용하여 난수를 뽑
+  - rand함수를 이용하여 난수를 뽑음
 
 * makeclearfield
-  - 배열 초기
+  - 배열 초기화
 
 * sethint
   - 지뢰의 위치의 8방향(↗↙↖↘→←↑↓)에 힌트를 1씩 늘림
